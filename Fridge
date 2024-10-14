@@ -53,19 +53,3 @@ def expire(items, in_advance_days=0):
         if amount_expire > Decimal('0'):
             expired_items.append(tuple((item, amount_expire)))
     return expired_items
-@Shamil9310
-Comment
- 
-Leave a comment
- 
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
