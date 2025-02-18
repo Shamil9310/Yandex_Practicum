@@ -1,2 +1,2 @@
-# Yandex-Practicum
+# Yandex_Practicum
 Проект для яндекс практикума
